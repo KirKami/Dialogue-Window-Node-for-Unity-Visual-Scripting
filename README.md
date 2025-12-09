@@ -1,7 +1,6 @@
 <h1> 
     Dialogue Window Node for Unity Visual Scripting
 </h1>
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
 > **Easily show character dialogue in any type of game with Visual Scripting!**
 
