@@ -1,0 +1,25 @@
+{
+  "name": "com.bluefoxgames.dialoguewindownode",
+  "version": "1.0.0",
+  "displayName": "Dialogue Window Node",
+  "description": "Node for Visual Scripting and a system to display simple windows for game dialogues.",
+  "unity": "2023.1",
+  "dependencies": {
+    "com.unity.addressables": "2.0.0",
+    "com.unity.localization": "1.4.0",
+	"com.unity.visualscripting": "1.8.0",
+	"com.unity.ugui": "1.0.0"
+ },
+  "author": {
+    "name": "BlueFoxGames",
+    "email": "admin@bluefoxgames.online",
+    "url": "https://bluefoxgames.online/"
+  },
+ "samples": [
+        {
+            "displayName": "Sample Dialogue",
+            "description": "Contains sample scene with a dialogue graph and prefab of a dialogue window.\n\nNOTE: After importing use 'Localization' package settings from sample. \nOr add use of 'English (United States) (en-US)' locale to your settings.",
+            "path": "Samples~/DialogueWindow"
+        }
+	]
+}
